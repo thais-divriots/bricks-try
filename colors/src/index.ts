@@ -3,7 +3,7 @@ import { PaletteMode } from '@mui/material';
 export const light = {
   mode: 'light' as PaletteMode,
   action: {
-    activatedOpacity: 0.12,
+    activatedOpacity: 0.15,
     active: 'rgba(0, 0, 0, 0.54)',
     disabled: 'rgba(0, 0, 0, 0.26)',
     disabledBackground: 'rgba(0, 0, 0, 0.12)',
@@ -26,7 +26,7 @@ export const light = {
   },
   primary: {
     contrastText: '#fff',
-    main: '#007FFF',
+    main: '#d14b83',
   },
   secondary: {
     contrastText: '#fff',
